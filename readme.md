@@ -1,4 +1,5 @@
 # SoraOS Xfce4 theming
+![scrot](https://i.imgur.com/Mw4Ib2Fh.jpg)
 
 # Install
 ```
